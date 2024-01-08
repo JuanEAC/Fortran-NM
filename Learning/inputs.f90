@@ -1,4 +1,4 @@
-program hello
+program basics_about_variables
     implicit none
 
     ! Variable declaration 
@@ -8,4 +8,4 @@ program hello
     read *, user_name ! Username assignment (Similar to scanf function in C)
     print *, "Your name is ", user_name
 
-end program hello
+end program basics_about_variables
