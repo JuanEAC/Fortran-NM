@@ -39,7 +39,7 @@ program FuncionesEnFortran
 
   do 
 
-    ! Aproximación al punto de la raíz por aprodimación media
+    ! Aproximación al punto de la raíz por media de los puntos
     m = (a + b) / 2
 
 
